@@ -24,7 +24,7 @@ The process section is to add information regarding the load capacity of the str
 
 Other uses cases waiting for our use case to be completed could be use cases determining the price of the building, or shop lists. 
 
-![Alt text]((https://github.com/frejahbarkler/41934_GR15_A3/blob/main/BPMN.svg))
+<img src="https://github.com/frejahbarkler/41934_GR15_A3/blob/main/BPMN.svg">
 
 #### **Input**
 
