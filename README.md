@@ -24,6 +24,11 @@ The process section is to add information regarding the load capacity of the str
 
 Other uses cases waiting for our use case to be completed could be use cases determining the price of the building, or shop lists. 
 
+#### **IDM diagram**
+
+The idea of the use case is shown in the diagram below. The highlighted green boxes are the ones which are developed in the tool so far. 
+The purpose of this diagram is to show the goal of the tool, while focusing on a more narrow area. 
+
 <img src="https://github.com/frejahbarkler/41934_GR15_A3/blob/main/BPMN.svg">
 
 #### **Input**
