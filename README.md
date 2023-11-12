@@ -2,6 +2,8 @@
 
 #### *Group 15: (s203634 & s203595)*
 
+*Note: For this tool to work, please save your ifc-file in a folder named "model", the folder should be located the same place as the python file.*
+
 **The goal of our tool** is to support the user to verify the structural load capacity. 
 
 This tool is thereby intended for structural engineers, and requires a structural analysis, why we are particularly interested in structural components which are load bearing. 
