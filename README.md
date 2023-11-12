@@ -2,8 +2,6 @@
 
 #### *Group 15: (s203634 & s203595)*
 
-(This markdown file includes the plan for the development of a new tool/workflow. It should include the following parts)
-
 **The goal of our tool** is to support the user to verify the structural load capacity. 
 
 This tool is thereby intended for structural engineers, and requires a structural analysis, why we are particularly interested in structural components which are load bearing. 
@@ -26,8 +24,7 @@ The process section is to add information regarding the load capacity of the str
 
 Other uses cases waiting for our use case to be completed could be use cases determining the price of the building, or shop lists. 
 
-![Alt text](BPMN diagram)
-<img src=" img/BPMN.svg ">
+![Alt text](...svg)
 
 #### **Input**
 
